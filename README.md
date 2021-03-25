@@ -1,6 +1,7 @@
-# Hello there! Im Tanja! 👋
-### I am a Full stack Developer Student, extremly motivated to learn more about software development!
-## Looking for a Junior Dev role or an internship
+# Hi there! Im Tanja! 👋
+### Soon to be Full Stack Software Developer
+## Im currently studying for a Diploma in Software Development
+## Looking for a junior dev role or an internship to start my dev journey
 
 ### Languages
 
@@ -30,4 +31,6 @@
 
 1.  <strong>Milestone 2 - Movie Quiz: </strong><a href="https://github.com/TanYa-Go/Movie-Quiz" alt="Movie Quiz Repo" target="_blank">Repo</a> | Currently working on this project
 1.  <strong>Milestone 1 - Eleventh Embodiment  </strong><a href=https://github.com/TanYa-Go/eleventh-embodiment alt="Eleventh Embodiment Repo" target="_blank">Repo</a> | <a href="https://tanya-go.github.io/eleventh-embodiment/" alt="Eleventh Embodiment website" target="_blank">Website</a>
+1.  Milestone project 3 - Coming soon 
+1.  Milestone project 4 - coming soon
 
