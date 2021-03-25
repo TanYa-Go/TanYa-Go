@@ -29,8 +29,8 @@
 
 ### Main Projects
 
-1.  <strong>Milestone 1 - Eleventh Embodiment  </strong><a href=https://github.com/TanYa-Go/eleventh-embodiment alt="Eleventh Embodiment Repo" target="_blank">Repo</a> | <a href="https://tanya-go.github.io/eleventh-embodiment/" alt="Eleventh Embodiment website" target="_blank">Website</a>
-1.  <strong>Milestone 2 - Movie Quiz: </strong><a href="https://github.com/TanYa-Go/Movie-Quiz" alt="Movie Quiz Repo" target="_blank">Repo</a> | Currently working on this project
+1.  <strong>Milestone 1 - Eleventh Embodiment  </strong><a href=https://github.com/TanYa-Go/eleventh-embodiment alt="Eleventh Embodiment Repo" target="_blank">Repo</a> | <a href="https://tanya-go.github.io/eleventh-embodiment/" alt="Eleventh Embodiment website" target="_blank">Website</a> | Made with ![HTML](https://img.shields.io/static/v1?label=HTML&message=5&style=flat&color=E34F26&logo=html5) ![CSS](https://img.shields.io/static/v1?label=CSS&message=3&style=flat&color=1572B6&logo=css3) ![Bootstrap](https://img.shields.io/static/v1?label=Bootstrap&message=🎨&style=flat&color=563D7C&logo=bootstrap)
+1.  <strong>Milestone 2 - Movie Quiz: </strong><a href="https://github.com/TanYa-Go/Movie-Quiz" alt="Movie Quiz Repo" target="_blank">Repo</a> | Made with ![HTML](https://img.shields.io/static/v1?label=HTML&message=5&style=flat&color=E34F26&logo=html5) ![CSS](https://img.shields.io/static/v1?label=CSS&message=3&style=flat&color=1572B6&logo=css3) ![Bootstrap](https://img.shields.io/static/v1?label=Bootstrap&message=🎨&style=flat&color=563D7C&logo=bootstrap) ![Javascript](https://img.shields.io/static/v1?label=JavaScript&message=ES8&style=flat&color=F7DF1E&logo=JavaScript) Currently working on this project 
 1.  Milestone project 3 - Coming soon 
 1.  Milestone project 4 - coming soon
 
