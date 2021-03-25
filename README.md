@@ -1,45 +1,33 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Hello there! Im Tanja! 👋
+### I am a Full stack Developer Student, extremly motivated to learn more about software development!
+## Looking for a Junior Dev role or an internship
 
-Welcome USER_NAME,
+### Languages
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+![HTML](https://img.shields.io/static/v1?label=HTML&message=5&style=flat&color=E34F26&logo=html5)
+![CSS](https://img.shields.io/static/v1?label=CSS&message=3&style=flat&color=1572B6&logo=css3)
+![Javascript](https://img.shields.io/static/v1?label=JavaScript&message=ES8&style=flat&color=F7DF1E&logo=JavaScript)
 
-## Gitpod Reminders
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+### Libraries & Frameworks
 
-`python3 -m http.server`
+![JQuery](https://img.shields.io/static/v1?label=JQuery&message=3.5.1&style=flat&color=0769AD&logo=jquery)
 
-A blue button should appear to click: *Make Public*,
 
-Another blue button should appear to click: *Open Browser*.
+### Content & Version Management
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+![GitPod](https://img.shields.io/static/v1?label=GitPod&message=🌙&style=flat&color=1AA6E4&logo=gitpod)
+![Github](https://img.shields.io/static/v1?label=GitHub&message=🪐&style=flat&color=181717&logo=github)
 
-A blue button should appear to click: *Make Public*,
 
-Another blue button should appear to click: *Open Browser*.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+### UX & Design
 
-## Updates Since The Instructional Video
+![Bootstrap](https://img.shields.io/static/v1?label=Bootstrap&message=🎨&style=flat&color=563D7C&logo=bootstrap)
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+### Main Projects
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+1.  <strong>Milestone 2 - Movie Quiz: </strong><a href="https://github.com/TanYa-Go/Movie-Quiz" alt="Movie Quiz Repo" target="_blank">Repo</a> | Currently working on this project
+1.  <strong>Milestone 1 - Eleventh Embodiment  </strong><a href=https://github.com/TanYa-Go/eleventh-embodiment alt="Eleventh Embodiment Repo" target="_blank">Repo</a> | <a href="https://tanya-go.github.io/eleventh-embodiment/" alt="Eleventh Embodiment website" target="_blank">Website</a>
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
