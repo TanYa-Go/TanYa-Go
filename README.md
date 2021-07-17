@@ -12,8 +12,8 @@
 ### Currently Learning
 
 ![Python](https://img.shields.io/static/v1?label=Python&message=3&style=flat&color=3776AB&logo=PYTHON)
-![Flask](https://img.shields.io/static/v1?label=Flask&message=&style=flat&color=000000&logo=flask)
-![MongoDB](https://img.shields.io/static/v1?label=MongoDB&message=&style=flat&color=47A248&logo=mongodb)
+![Flask](https://img.shields.io/static/v1?label=Flask&message=1.1.2&style=flat&color=000000&logo=flask)
+![MongoDB](https://img.shields.io/static/v1?label=MongoDB&message=4.2.8&style=flat&color=47A248&logo=mongodb)
 
 
 ### Libraries & Frameworks
