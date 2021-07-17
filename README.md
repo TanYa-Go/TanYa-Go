@@ -27,10 +27,11 @@
 ![Bootstrap](https://img.shields.io/static/v1?label=Bootstrap&message=🎨&style=flat&color=563D7C&logo=bootstrap)
 
 
-### Main Projects
-
-1.  <strong>Milestone 1 - Eleventh Embodiment  </strong><a href=https://github.com/TanYa-Go/eleventh-embodiment alt="Eleventh Embodiment Repo" target="_blank">Repo</a> | <a href="https://tanya-go.github.io/eleventh-embodiment/" alt="Eleventh Embodiment website" target="_blank">Website</a> 
-1.  <strong>Milestone 2 - Movie Quiz: </strong><a href="https://github.com/TanYa-Go/Movie-Quiz" alt="Movie Quiz Repo" target="_blank">Repo</a> | 
-1.  Milestone project 3 - Coming soon 
-1.  Milestone project 4 - coming soon
+### Projects
+1. <strong>Milestone project 3 - Portfolio </strong> <a href="https://github.com/TanYa-Go/TanjaG.Portfolio" alt="Portfolio Repo" target="_blank">Repo</a> | <a href="https://tanjag-portfolio.herokuapp.com/" alt="Movie Quiz App" target="_blank">Website</a> 
+2.  <strong>Milestone 2 - Movie Quiz </strong><a href="https://github.com/TanYa-Go/Movie-Quiz" alt="Movie Quiz Repo" target="_blank">Repo</a> | <a href="https://tanya-go.github.io/movie-quiz/" alt="Movie Quiz App" target="_blank">Website</a> 
+3.  <strong>Milestone 1 - Eleventh Embodiment  </strong><a href=https://github.com/TanYa-Go/eleventh-embodiment alt="Eleventh Embodiment Repo" target="_blank">Repo</a> | <a href="https://tanya-go.github.io/eleventh-embodiment/" alt="Eleventh Embodiment website" target="_blank">Website</a> 
+4. 
+5.  
+6.  Milestone project 4 - coming soon
 
