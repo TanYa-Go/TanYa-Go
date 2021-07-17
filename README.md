@@ -9,16 +9,16 @@
 ![CSS](https://img.shields.io/static/v1?label=CSS&message=3&style=flat&color=1572B6&logo=css3)
 ![Javascript](https://img.shields.io/static/v1?label=JavaScript&message=ES8&style=flat&color=F7DF1E&logo=JavaScript)
 
-### Currenly Learning
+### Currently Learning
 
 ![Python](https://img.shields.io/static/v1?label=Python&message=3&style=flat&color=3776AB&logo=PYTHON)
-![Flask](https://img.shields.io/static/v1?label=Flask&message=1.1.2&style=flat&color=000000&logo=flask)
-![MongoDB](https://img.shields.io/static/v1?label=MongoDB&message=4.2.8&style=flat&color=47A248&logo=mongodb)
+![Flask](https://img.shields.io/static/v1?label=Flask&message=&style=flat&color=000000&logo=flask)
+![MongoDB](https://img.shields.io/static/v1?label=MongoDB&message=&style=flat&color=47A248&logo=mongodb)
 
 
 ### Libraries & Frameworks
 
-![JQuery](https://img.shields.io/static/v1?label=JQuery&message=3.5.1&style=flat&color=0769AD&logo=jquery)
+![JQuery](https://img.shields.io/static/v1?label=JQuery&message=1&style=flat&color=0769AD&logo=jquery)
 ![Bootstrap](https://img.shields.io/static/v1?label=Bootstrap&message=🎨&style=flat&color=563D7C&logo=bootstrap)
 
 ### Content & Version Management
