@@ -23,4 +23,5 @@ I am enthusiastic about learning new technologies and want to grow my skillset. 
 
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=tanya-go&show_icons=true&theme=dark&locale=en" alt="tanya-go" /></p><br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanya-go&show_icons=true&theme=dark&locale=en&layout=compact" alt="tanya-go" /></p>
