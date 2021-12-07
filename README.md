@@ -22,6 +22,6 @@ I am enthusiastic about learning new technologies and want to grow my skillset. 
 1.  <strong>Milestone 1 - Eleventh Embodiment - static website </strong><a href=https://github.com/TanYa-Go/eleventh-embodiment alt="Eleventh Embodiment Repo" target="_blank">Repo</a> | <a href="https://tanya-go.github.io/eleventh-embodiment/" alt="Eleventh Embodiment website" target="_blank">Website</a> 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanya-go&show_icons=true&theme=dark&locale=en&layout=compact" alt="tanya-go" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanya-go&show_icons=true&theme=dark&locale=en" alt="tanya-go" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=tanya-go&show_icons=true&theme=dark&locale=en" alt="tanya-go" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanya-go&show_icons=true&theme=dark&locale=en&layout=compact" alt="tanya-go" /></p>
